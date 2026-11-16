@@ -52,3 +52,9 @@ Python · Google Gemini API (`google-genai`) · Function / Tool Calling
 - Add more tools (cancel order, product price, create support ticket)
 - Connect to a real database or API
 - Add conversation memory for multi-turn chats
+
+- ## 👩‍💻 Author
+
+**Maria Zafar**
+
+🔗 **GitHub:** [@MariaZafar22](https://github.com/MariaZafar22)
